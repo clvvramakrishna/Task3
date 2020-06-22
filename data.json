@@ -1,0 +1,72 @@
+{
+  "profiles": [
+    {
+      "basics": {
+        "name": "Clvv Ramakrishna",
+        "role": "MERN developer",
+        "email": "ramkrishna20015@gmail.com",
+        "mobile": "+91 9177045154",
+        "gender": "male",
+        "address": "Vizag, Andrapradesh"
+      },
+      "summary": [
+        "Web Development",
+        "Proficient in HTML5",
+        "Proficient in CSS3",
+        "Proficient in JavaScipt",
+        "Proficient in Bootstrap",
+        "Learning React"
+      ],
+      "education": [
+        {
+          "course": "B.tech in Computer Science",
+          "institute": "Andhra University",
+          "result": "still pursuing"
+        },
+        {
+          "course": "Intermediate",
+          "institute": "Sri Chaitanya",
+          "result": "93%"
+        },
+        {
+          "course": "Tenth Class",
+          "institute": "LAS",
+          "result": "95%"
+        }
+      ]
+    },
+    {
+      "basics": {
+        "name": "Jacky",
+        "role": "Android App developer",
+        "email": "Jacky@gmail.com",
+        "mobile": "+91 9888326858",
+        "gender": "male",
+        "address": "Bheemili, Andrapradesh"
+      },
+      "summary": [
+        "Proficient in Java, Dart and python programming languages",
+        "3 years of experience working as a freelancer",
+        "Learning cloud computing",
+        "Blockchain Enthusiast"
+      ],
+      "education": [
+        {
+          "course": "B.tech in Computer Science",
+          "institute": "Amity University",
+          "result": "still pursuing"
+        },
+        {
+          "course": "Intermediate",
+          "institute": "Sri Chaitanya Jr. College",
+          "result": "82.5%"
+        },
+        {
+          "course": "Tenth Class",
+          "institute": "Catherine Public School",
+          "result": "95%"
+        }
+      ]
+    }
+  ]
+}
